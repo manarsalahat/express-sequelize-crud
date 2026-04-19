@@ -23,6 +23,11 @@ The project uses two models:
 - Sequelize
 - Sequelize CLI
 - SQLite
+  
+  ## How to Test APIs
+You can test the APIs using:
+- Postman
+- curl commands in terminal
 
 ## Project Structure
 ```text
