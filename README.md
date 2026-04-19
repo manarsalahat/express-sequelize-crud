@@ -17,8 +17,6 @@ The project uses two models:
 - One User has many Orders
 - One Order belongs to one User
 
-
-
 ## Technologies Used
 - Node.js
 - Express.js
@@ -26,10 +24,8 @@ The project uses two models:
 - Sequelize CLI
 - SQLite
 
-
-
 ## Project Structure
-
+```text
 express-sequelize-crud/
 │
 ├── config/
